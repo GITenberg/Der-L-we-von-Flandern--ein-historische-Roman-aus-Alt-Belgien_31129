@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31129#Der-L-we-von-Flandern--ein-historische-Roman-aus-Alt-Belgien
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-01-30'
 gutenberg_type: Text
